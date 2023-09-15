@@ -1,7 +1,7 @@
 import streamlit as st
 import pandas as pd
 import matplotlib.pyplot as plt
-from src import data_preprocessing
+import data_preprocessing
 
 # Title of the Streamlit app
 st.title("Sales Forecasting and Budget Optimization")
